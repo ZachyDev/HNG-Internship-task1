@@ -1,0 +1,1 @@
+This is the solution to task 1 of HNG Internship.
